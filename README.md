@@ -11,8 +11,7 @@ This is the place where I house the results of hundreds of hours spent on gather
 
 <h3>Tech Stack/Tools</h3>
 
-- Microsoft Excel ![microsoftexcel](https://user-images.githubusercontent.com/100153057/155860732-aa5f20ce-d65b-4dfa-9c76-3d3a299aff12.svg)
-
+- Microsoft Excel 
 - Microsoft SQL Server
 - BigQuery
 - Tableau Desktop
