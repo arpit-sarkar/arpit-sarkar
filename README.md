@@ -12,7 +12,8 @@ This is the place where I house the results of hundreds of hours spent on gather
 <h3>Tech Stack/Tools</h3>
 
 <ul>
-    <li>Microsoft Excel</li>
+    <li>Microsoft Excel </li>  ![microsoft-excel^2016^excel-logo-new](https://user-images.githubusercontent.com/100153057/155857877-a31f63e3-fca7-4936-8080-cd4b2caad0eb.png)
+
     <li>Microsoft SQL Server</li>
     <li>BigQuery</li>
     <li>Tableau Desktop</li>
