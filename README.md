@@ -3,10 +3,10 @@
 Namaste 🙏
 I am Arpit Sarkar. Welcome to my repository🖐.
 
-I am a data analytics professional. I love engaging in business intelligence and insights extraction.
+I am a data analytics professional who loves business intelligence and insights extraction.
 I believe data is the very fabric of human existence, and exploring the past is ensures a better future.
 
-This is the place where I house the results of hours spent on gathering and investigating data on a variety of different topics/issues.
+This is the place where I house the results of hundreds of hours spent on gathering and investigating data on a variety of different topics/issues.
 
 
 <h3>Tech Stack/Tools</h3>
