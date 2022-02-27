@@ -13,7 +13,9 @@ This is the place where I house the results of hundreds of hours spent on gather
 <h2>Look me up on:</h2>
 
 <a href="https://in.linkedin.com/in/arpit-sarkar-79364b196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitsarkar" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://public.tableau.com/app/profile/arpit.sarkar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/100153057/155880992-4956eba8-3d02-44c1-9ff7-38325bc13bbf.png" alt="arpitsarkar" height="30" width="150" /></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/infernoblastsoff?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpitsarkar" height="30" width="40" /></a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
