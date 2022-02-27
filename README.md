@@ -1,4 +1,4 @@
-<h3>About Me:</h3>
+<h2>About Me:</h2>
 
 Namaste 🙏
 I am Arpit Sarkar. Welcome to my repository🖐.
@@ -10,7 +10,7 @@ This is the place where I house the results of hundreds of hours spent on gather
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Look me up on:</h3>
+<h2>Look me up on:</h2>
 
 <a href="https://in.linkedin.com/in/arpit-sarkar-79364b196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitsarkar" height="30" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/arpit.sarkar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/100153057/155880992-4956eba8-3d02-44c1-9ff7-38325bc13bbf.png" alt="arpitsarkar" height="30" width="150" /></a>
@@ -18,7 +18,7 @@ This is the place where I house the results of hundreds of hours spent on gather
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Tech Stack/Tools:</h3>
+<h2>Tech Stack/Tools:</h2>
 
 
 - <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" width="20" height="20"> Microsoft Excel
