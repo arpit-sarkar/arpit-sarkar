@@ -9,6 +9,11 @@ I believe data is the very fabric of human existence, and exploring the past is 
 This is the place where I house the results of hundreds of hours spent on gathering and investigating data on a variety of different topics/issues.
 
 
+<h3>Reach out to me</h3>
+![Green Cover Loss (1)](https://user-images.githubusercontent.com/100153057/155880606-7f3e0993-5ecc-4691-b984-a9ddb989f7f7.png)
+
+
+
 <h3>Tech Stack/Tools</h3>
 
 
